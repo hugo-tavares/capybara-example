@@ -2,7 +2,7 @@
 
  This project is an example of BDD style automated testing using Ruby, Cucumber, RSpec and Capybara.
  
- ## Structure
+ ## Information
  - Ruby and Bundler must be installed
  - The chromedriver executable must be present in the system's path
  - The Hooks are contained in ```hooks/```
