@@ -5,10 +5,10 @@
  ## Information
  - Ruby and Bundler must be installed
  - The chromedriver executable must be present in the system's path
- - The Hooks are contained in ```hooks/```
- - The Features are contained in ```features/```
- - The Step Definitions are in ```step_definitions/```
- - The Page Objects are in ```pages/```
+ - The Hooks are contained in ```features/hooks/```
+ - The Gherkin files are contained in ```features/specifications```
+ - The Step Definitions are in ```features/step_definitions/```
+ - The Page Objects are in ```features/pages/```
 
   ## Running
   ```
