@@ -1,0 +1,6 @@
+---
+default: -p dev -p html -p pretty -p skipignore --publish-quiet
+dev: ENV_TYPE=dev
+html: -f html  -o log/report.html
+pretty: -f pretty
+skipignore: -t "not @ignore"

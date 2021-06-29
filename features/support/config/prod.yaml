@@ -1,0 +1,7 @@
+---
+  url: "not_in_use"
+  database:
+    host: "not_in_use"
+    dbname: "not_in_use"
+    user: "not_in_use"
+    password: "not_in_use"
